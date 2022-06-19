@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Haruki Konii.
+# 👋 Hi, I’m Haruki Konii.
+---
 - 👀 I’m interested in Machine Learning, Image Recognition and IoT. 
 - 🌱 I’m currently learning Computer Science at Waseda University in Tokyo, Japan.
+- 😍 I love traveling✈️ and watching movies/dramas🎥
 <!-- - 📫 How to reach me ... -->
 
 <!---
